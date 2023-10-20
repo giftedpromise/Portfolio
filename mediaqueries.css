@@ -2,7 +2,7 @@
   #desktop-nav {
     display: none;
   }
-  .nav-link {
-    color: aquamarine;
+  #hamburger-nav {
+    display: flex;
   }
 }
