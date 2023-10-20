@@ -2,4 +2,7 @@
   #desktop-nav {
     display: none;
   }
+  .nav-link {
+    color: aquamarine;
+  }
 }
